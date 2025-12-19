@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. degree in the School of Computer Science at Wuhan University (WHU) under the supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en). During this period, I am also fortunate to receive guidance from [Dr. Sen Zhang](https://scholar.google.com/citations?user=-bJJNV0AAAAJ&hl=zh-CN) and [Dr. Liang Ding](https://scholar.google.com/citations?user=lFCLvOAAAAAJ&hl=en). Before that, I received my bachelor's degree in the School of Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2022, under the supervision of [Prof. Xile Zhao](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=zh-CN). I am sincerely grateful to all my mentors for their invaluable guidance, support, and inspiration throughout my academic journey.
 
-I have authored or co-authored over 10 papers published in top-tier international journals and conferences, including IEEE TPAMI, ICML, NeurIPS, CVPR, ICCV, and EMNLP. In addition, I am supported by the Fundamental Research Project for Young Professionals from NSFC (国自然博士生基金项目, [PR](https://cs.whu.edu.cn/info/1054/41871.htm](https://sigma.whu.edu.cn/info/1051/4351.htm)).
+I have authored or co-authored over 10 papers published in top-tier international journals and conferences, including IEEE TPAMI, ICML, NeurIPS, CVPR, ICCV, and EMNLP. In addition, I am supported by the Fundamental Research Project for Young Professionals from NSFC (国自然博士生基金项目, [PR](https://sigma.whu.edu.cn/info/1051/4351.htm)).
 
 My current research interests focus on Reinforcement Learning (RL) for LLMs, including Reinforcement Learning from Human Feedback (RLHF), reasoning RL, and agentic RL.
 
