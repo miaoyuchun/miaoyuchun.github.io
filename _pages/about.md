@@ -21,7 +21,7 @@ I am currently pursuing a Ph.D. degree in Computer Science at Wuhan University (
 
 I have authored or co-authored over 10 papers published in top-tier international journals and conferences, including IEEE TPAMI, ICML, NeurIPS, CVPR, ICCV, and EMNLP. In addition, I am supported by the Fundamental Research Project for Young Professional from NSFC (国自然博士生基金, [PR](https://sigma.whu.edu.cn/info/1051/4351.htm)). I have also received several honors, including the China Remote Sensing Outstanding Achievement First-Class Prize (2025 中国遥感优秀成果一等奖) and the VALSE 2025 Popular Poster Award (VALSE 2025人气海报奖). 
 
-My current research interests mainly focus on Reinforcement Learning (RL) for LLMs, including Reinforcement Learning from Human Feedback (RLHF), reasoning RL, and agentic RL. Previously, my research primarily focused on image processing and remote sensing.
+My current research interests mainly focus on Reinforcement Learning (RL) for LLMs, including Reinforcement Learning from Human Feedback (RLHF), reasoning RL, and agentic RL. Previously, my research primarily focused on tensor modeling and computing, high-dimensional image processing, and remote sensing.
 
 
 # 🔥 News
