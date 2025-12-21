@@ -46,7 +46,7 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 # 🎖 Honors and Awards
 <li>Fundamental Research Project for Young Professional from NSFC, 2024 April <br>
-    (<b><font color="red">主持</font></b>国家自然科学基金青年学生基础研究项目（博士研究生), <b><a href="https://cs.whu.edu.cn/info/1054/41871.htm">Link</a></b>)
+    (<b><font color="red">主持</font></b>国家自然科学基金青年学生基础研究项目（博士研究生), <b><a href="https://cs.whu.edu.cn/info/1054/41871.htm">Link</a></b>
 </li>
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
