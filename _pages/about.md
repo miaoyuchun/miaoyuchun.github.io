@@ -44,7 +44,7 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 - Fundamental Research Project for Young Professional from NSFC, 2025 December <br>
     (<b><font color="red">主持</font></b>国家自然科学基金青年学生基础研究项目（博士研究生), <b><a href="https://sigma.whu.edu.cn/info/1051/4351.htm">Link</a></b>)
 - China Remote Sensing Outstanding Achievement First-Class Prize, 2025 December <br>
