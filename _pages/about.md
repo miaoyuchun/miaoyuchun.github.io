@@ -44,11 +44,18 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-<li>Fundamental Research Project for Young Professional from NSFC, 2024 April <br>
-    (<b><font color="red">主持</font></b>国家自然科学基金青年学生基础研究项目（博士研究生), <b><a href="https://cs.whu.edu.cn/info/1054/41871.htm">Link</a></b>
-</li>
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors and Awards
+- Fundamental Research Project for Young Professional from NSFC, 2025 December <br>
+    (<b><font color="red">主持</font></b>国家自然科学基金青年学生基础研究项目（博士研究生), <b><a href="https://sigma.whu.edu.cn/info/1051/4351.htm">Link</a></b>)
+- China Remote Sensing Outstanding Achievement First-Class Prize, 2025 December <br>
+    (中国遥感优秀成果<b><font color="red">一等奖</font></b>, <b><a href="https://sigma.whu.edu.cn/info/1051/4361.htm">Link</a></b>)
+- National Scholarship, Ministry of Education of China, 2025 October <br>
+    (国家奖学金, <b><font color="red">Top 2% in Wuhan University</font></b>)
+- VALSE Popular Poster Award, 2025 June <br>
+    (VALSE 人气海报奖, <b><font color="red">11 / 398 </font></b>, <b><a href="https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ">Link</a></b>)
+- National Scholarship, Ministry of Education of China, 2024 October <br>
+    (国家奖学金, <b><font color="red">Top 2% in Wuhan University</font></b>)
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
