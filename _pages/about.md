@@ -52,7 +52,7 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 - National Scholarship, Ministry of Education of China, 2025 October <br>
     (国家奖学金, <b><font color="red">Top 2% in Wuhan University</font></b>)
 - VALSE Popular Poster Award, 2025 June <br>
-    (VALSE 人气海报奖, <b><font color="red">11 / 398 </font></b>, <b><a href="https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ">Link</a></b>)
+    (VALSE 人气海报奖, <b><font color="red">11/398 </font></b>, <b><a href="https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ">Link</a></b>)
 - National Scholarship, Ministry of Education of China, 2024 October <br>
     (国家奖学金, <b><font color="red">Top 2% in Wuhan University</font></b>)
 
