@@ -58,12 +58,15 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-  <b>Wuhan University</b>, September 2022 -- Present<br>
+    Ph.D. Student in School of Computer Science, Wuhan, China.<br>
+    Supervised by <a href="https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en" target="_blank">Lefei Zhang</a>.
+- <b>University of Electronic Science and Technology of China</b>, September 2018 -- July 2022<br>
+    Undergraduate Student in the School of Mathematical Science, Chengdu, China.<br>
+    Supervised by <a href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=zh-CN" target="_blank">Xile Zhao</a>.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- <b>A Generative AI Research Startup</b>, April 2023 -- October 2025 <br>
+  Research Intern on Alignment of Large Language Models, advised by <a href="http://liamding.cc/" target="_blank">Liang Ding</a>.
+
+
