@@ -68,10 +68,20 @@ Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, 
 <b>Yuchun Miao</b>, Xile Zhao, Xiao Fu, Jianli Wang, Yubang Zheng  <br>
 <i>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2022</i><br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/10388408">Paper</a>][<a href="https://github.com/miaoyuchun/DS2DP">Code</a>]
+- <font color="#0D4884"> PHDMamba: Progressive Hybrid Mamba for Hyperspectral Image Classification  </font>
+Yichu Xu, Chengxi Han, Shi Chen, Yao Jin, <b>Yuchun Miao</b>, Haonan Guo, Di Wang  <br>
+<i>IEEE Geoscience and Remote Sensing Letters (<b>IEEE GRSL</b>), 2025</i><br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11222630">Paper</a>][<a href="https://github.com/YichuXu/PHDMamba">Code</a>]
+- <font color="#0D4884"> Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors  </font>
+Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
+<i>IEEE Signal Processing Letters (<b>IEEE SPL</b>), 2022</i><br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10024411">Paper</a>][<a href="">Code</a>]
+
 <h3>Pre-prints</h3>
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <font color="#0D4884"> Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking   </font>
+<b>Yuchun Miao</b>, Liang Ding, Sen Zhang, Rong Bao, Lefei Zhang, Dacheng Tao  <br>
+<i>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>)</i><br>
+[<a href="https://arxiv.org/abs/2510.13694">Paper</a>][<a href="https://github.com/miaoyuchun/InfoRM">Code</a>]
 
 # 🎖 Honors and Awards
 - Fundamental Research Project for Young Professional from NSFC, 2025 December <br>
