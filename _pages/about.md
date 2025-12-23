@@ -48,6 +48,10 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 Yuqi Zhang, <b>Yuchun Miao</b>, Zuchao Li, Liang Ding <br>
 <i>Findings of Empirical Methods in Natural Language Processing (<b>EMNLP</b>), 2025</i><br>
 [<a href="https://aclanthology.org/2025.findings-emnlp.651/">Paper</a>][<a href="">Code</a>]
+- <font color="#0D4884"> Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior  </font>
+Xiaole Tang, Xile Zhao, Jun Liu, Jianli Wang, <b>Yuchun Miao</b>, Tieyong Zeng  <br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023 </i><br>
+[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.pdf">Paper</a>][<a href="https://github.com/xl-tang3/UAUDeblur">Code</a>]
 
 <h3>Journal Articles</h3>
 
