@@ -34,7 +34,7 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 - <font color="#0D4884"> The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking. </font>  [<a href="https://icml.cc/virtual/2025/poster/46294" target="_blank">Paper</a>]  <br>
 <b>Yuchun Miao</b>, Sen Zhang, Liang Ding, Yuqi Zhang, Lefei Zhang, Dacheng Tao <br>
-<i>International Conference on Machine Learning (<b>ICML</b>), 2025</i><br>
+<i>International Conference on Machine Learning (<b>ICML</b>), 2025</i><br> 
 <h3>Journal Articles</h3>
 <h3>Pre-prints</h3>
 
