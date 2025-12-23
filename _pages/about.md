@@ -50,6 +50,7 @@ Yuqi Zhang, <b>Yuchun Miao</b>, Zuchao Li, Liang Ding <br>
 [<a href="https://aclanthology.org/2025.findings-emnlp.651/">Paper</a>][<a href="">Code</a>]
 
 <h3>Journal Articles</h3>
+
 - <font color="#0D4884"> HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model  </font>
 Di Wang<sup>†</sup>, Meiqi Hu<sup>†</sup>, Yao Jin<sup>†</sup>, <b>Yuchun Miao<sup>†</sup></b>, Jiaqi Yang<sup>†</sup>, Yichu Xu<sup>†</sup>, Xiaolei Qin<sup>†</sup>, Jiaqi Ma<sup>†</sup>, Lingyu Sun<sup>†</sup>, Chenxing Li,
 Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang.  <br>
