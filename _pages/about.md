@@ -36,9 +36,19 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 <b>Yuchun Miao</b>, Sen Zhang, Liang Ding, Yuqi Zhang, Lefei Zhang, Dacheng Tao <br>
 <i>International Conference on Machine Learning (<b>ICML</b>), 2025</i><br>
 [<a href="https://icml.cc/virtual/2025/poster/46294">Paper</a>][<a href="https://github.com/miaoyuchun/Energy-Loss-Phenomenon">Code</a>]
-- <font color="#0D4884"> [InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling.](https://nips.cc/virtual/2024/poster/96739)  <br>
+- <font color="#0D4884"> InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling  </font>
 <b>Yuchun Miao</b>, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao <br>
-<i>Conference on Neural Information Processing System (<b>NeurIPS</b>), 2024</i><br> 
+<i>Conference on Neural Information Processing System (<b>NeurIPS</b>), 2024</i><br>
+[<a href="https://nips.cc/virtual/2024/poster/96739">Paper</a>][<a href="https://github.com/miaoyuchun/InfoRM">Code</a>]
+- <font color="#0D4884"> DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration  </font>
+<b>Yuchun Miao</b>, Lefei Zhang, Liangpei Zhang, Dacheng Tao <br>
+<i>IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2023</i><br>
+[<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Miao_DDS2M_Self-Supervised_Denoising_Diffusion_Spatio-Spectral_Model_for_Hyperspectral_Image_Restoration_ICCV_2023_paper.html">Paper</a>][<a href="https://github.com/miaoyuchun/DDS2M">Code</a>]
+- <font color="#0D4884"> AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders  </font>
+Yuqi Zhang, <b>Yuchun Miao</b>, Zuchao Li, Liang Ding <br>
+<i>Findings of Empirical Methods in Natural Language Processing (<b>EMNLP</b>), 2025</i><br>
+[<a href="https://aclanthology.org/2025.findings-emnlp.651/">Paper</a>][<a href="">Code</a>]
+
 <h3>Journal Articles</h3>
 <h3>Pre-prints</h3>
 
