@@ -25,8 +25,16 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 I was supported by the Fundamental Research Project for Young Professional from NSFC (国家自然科学基金博士生专项).
+- *2025.11*: &nbsp;🎉🎉 HyperSIGMA was selected for the China Remote Sensing Outstanding Achievement First-Class Prize (2025 中国遥感优秀成果一等奖).
+- *2025.11*: &nbsp;🎉🎉 HyperSIGMA has been selected as ESI Highly Cited Papers (TOP 1%).
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by ICML 2025.
+- *2025.06*: &nbsp;🎉🎉 HyperSIGMA received the VALSE 2025 Popular Poster Award (VALSE 2025人气海报奖).
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE GRSL.
+- *2025.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE TPAMI.
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
+- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TCI.
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2023. 
 
 # 📝 Publications 
 †: equal contribution, * : corresponding author
