@@ -78,6 +78,7 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/10024411">Paper</a>][<a href="">Code</a>]
 
 <h3>Pre-prints</h3>
+
 - <font color="#0D4884"> Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking   </font>
 <b>Yuchun Miao</b>, Liang Ding, Sen Zhang, Rong Bao, Lefei Zhang, Dacheng Tao  <br>
 <i>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>)</i><br>
