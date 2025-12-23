@@ -50,7 +50,7 @@ Yuqi Zhang, <b>Yuchun Miao</b>, Zuchao Li, Liang Ding <br>
 [<a href="https://aclanthology.org/2025.findings-emnlp.651/">Paper</a>][<a href="">Code</a>]
 - <font color="#0D4884"> Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior  </font>
 Xiaole Tang, Xile Zhao, Jun Liu, Jianli Wang, <b>Yuchun Miao</b>, Tieyong Zeng  <br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023 </i><br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023</i><br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.pdf">Paper</a>][<a href="https://github.com/xl-tang3/UAUDeblur">Code</a>]
 
 <h3>Journal Articles</h3>
@@ -60,7 +60,14 @@ Di Wang<sup>†</sup>, Meiqi Hu<sup>†</sup>, Yao Jin<sup>†</sup>, <b>Yuchun 
 Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang.  <br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), 2025</i><br>
 [<a href="https://ieeexplore.ieee.org/document/10949864">Paper</a>][<a href="https://github.com/WHU-Sigma/HyperSIGMA">Code</a>]
-
+- <font color="#0D4884"> Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior  </font>
+<b>Yuchun Miao</b>, Xile Zhao, Jianli Wang, Xiao Fu, Yao Wang  <br>
+<i>IEEE Transactions on Computational Imaging (<b>IEEE TCI</b>), 2024</i><br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10388408">Paper</a>][<a href="https://github.com/miaoyuchun/FactorDVP-T">Code</a>]
+- <font color="#0D4884"> Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors  </font>
+<b>Yuchun Miao</b>, Xile Zhao, Xiao Fu, Jianli Wang, Yubang Zheng  <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2022</i><br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10388408">Paper</a>][<a href="https://github.com/miaoyuchun/DS2DP">Code</a>]
 <h3>Pre-prints</h3>
 
 
