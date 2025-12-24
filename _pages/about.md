@@ -119,10 +119,10 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 - <b>A Generative AI Research Startup</b>, April 2023 -- October 2025 <br>
   Research Intern on Alignment of Large Language Models, advised by <a href="http://liamding.cc/" target="_blank">Liang Ding</a>.
   
-<h2> </h2>
-<footer>
-  <p>Last update: 12/2025 by Yuchun Miao. </p>
-</footer>
-</body>
+<hr style="margin-top: 3em;">
 
+<div id="footer" style="text-align: center; font-size: 0.9em; color: #666;">
+  <div id="footer-text"></div>
+
+  &copy; 2025 Yuchun Miao<br><br>
 
