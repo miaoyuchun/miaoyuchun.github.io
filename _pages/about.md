@@ -126,3 +126,7 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 
   &copy; 2025 Yuchun Miao<br><br>
 
+  <span style="color: #888;">
+    Total Views: <span id="busuanzi_value_site_pv"></span> | 
+    Unique Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
