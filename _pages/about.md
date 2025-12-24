@@ -109,7 +109,7 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 
 # 📖 Educations
 -  <b>Wuhan University</b>, September 2022 -- Present<br>
-    Ph.D. Student in School of Computer Science, Wuhan, China.<br>
+    Ph.D. Student in the School of Computer Science, Wuhan, China.<br>
     Supervised by <a href="https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en" target="_blank">Lefei Zhang</a>.
 - <b>University of Electronic Science and Technology of China</b>, September 2018 -- July 2022<br>
     Undergraduate Student in the School of Mathematical Science, Chengdu, China.<br>
