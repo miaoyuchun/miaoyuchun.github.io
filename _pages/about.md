@@ -125,5 +125,3 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
   <div id="footer-text"></div>
 
   &copy; 2025 Yuchun Miao<br><br>
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=tppnM1fsIhRE1baH3qIBH6GSI3jUV4_XEQCUgeSZdMc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
