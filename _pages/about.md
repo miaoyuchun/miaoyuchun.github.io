@@ -126,7 +126,4 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 
   &copy; 2025 Yuchun Miao<br><br>
 
-  <span style="color: #888;">
-    Total Views: <span id="busuanzi_value_site_pv"></span> | 
-    Unique Visitors: <span id="busuanzi_value_site_uv"></span>
-  </span>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=tppnM1fsIhRE1baH3qIBH6GSI3jUV4_XEQCUgeSZdMc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
