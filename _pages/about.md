@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. degree in Computer Science at Wuhan University (WHU) under the supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en). During this period, I am also fortunate to receive valuable guidance from [Dr. Sen Zhang](https://scholar.google.com/citations?user=-bJJNV0AAAAJ&hl=zh-CN), [Dr. Liang Ding](https://scholar.google.com/citations?user=lFCLvOAAAAAJ&hl=en), and [ Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). Before that, I received my bachelor's degree in Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2022, under the supervision of [Prof. Xile Zhao](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=zh-CN). I am sincerely grateful to all my mentors for their invaluable guidance, support, and inspiration throughout my academic journey.
+I am currently pursuing a Ph.D. degree in Computer Science at Wuhan University (WHU) under the supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en), and expect to graduate in 2027. During this period, I am also fortunate to receive valuable guidance from [Dr. Sen Zhang](https://scholar.google.com/citations?user=-bJJNV0AAAAJ&hl=zh-CN), [Dr. Liang Ding](https://scholar.google.com/citations?user=lFCLvOAAAAAJ&hl=en), and [ Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). Before that, I received my bachelor's degree in Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2022, under the supervision of [Prof. Xile Zhao](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=zh-CN). I am sincerely grateful to all my mentors for their invaluable guidance, support, and inspiration throughout my academic journey.
 
 I have authored or co-authored over 10 papers published in top-tier international journals and conferences, including IEEE TPAMI, ICML, NeurIPS, CVPR, ICCV, and EMNLP. In addition, I am supported by the Fundamental Research Project for Young Professional from NSFC (国自然博士生基金, [PR](https://sigma.whu.edu.cn/info/1051/4351.htm)). I have also received several honors, including the China Remote Sensing Outstanding Achievement First-Class Prize (2025 中国遥感优秀成果一等奖, [PR](https://sigma.whu.edu.cn/info/1051/4361.htm)) and the VALSE 2025 Popular Poster Award (VALSE 2025人气海报奖, [PR](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ)). 
 
@@ -28,14 +28,16 @@ My current research interests mainly focus on Reinforcement Learning (RL) for LL
 - *2025.12*: &nbsp;🎉🎉 I was supported by the Fundamental Research Project for Young Professional from NSFC (国家自然科学基金博士生专项).
 - *2025.11*: &nbsp;🎉🎉 HyperSIGMA was selected for the China Remote Sensing Outstanding Achievement First-Class Prize (2025 中国遥感优秀成果一等奖).
 - *2025.11*: &nbsp;🎉🎉 HyperSIGMA has been selected as ESI Highly Cited Papers (TOP 1%).
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by IEEE GRSL.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2025.
 - *2025.06*: &nbsp;🎉🎉 HyperSIGMA received the VALSE 2025 Popular Poster Award (VALSE 2025人气海报奖).
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE GRSL.
 - *2025.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE TPAMI.
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TCI.
-- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2023. 
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2023.
+- *2023.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2023.
+- *2021.08*: &nbsp;🎉🎉 One paper has been accepted by IEEE TGRS. 
 
 # 📝 Publications 
 †: equal contribution, * : corresponding author
