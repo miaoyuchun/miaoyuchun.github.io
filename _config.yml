@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuchun Miao (苗雨春)"
-  avatar           : "images/profile.png"
+  avatar           : "images/photo.jpg" #"images/profile.png"
   bio              : "Ph.D. Student @ WHU"
   location         : "Beijing, China"
   employer         :
