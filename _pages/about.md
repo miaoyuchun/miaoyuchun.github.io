@@ -23,7 +23,7 @@ I have authored or co-authored over 10 papers published in top-tier internationa
 
 My current research interests mainly focus on Reinforcement Learning (RL) for LLMs, including Reinforcement Learning from Human Feedback (RLHF), reasoning RL, and agentic RL. Previously, my research primarily focused on tensor modeling and computing, high-dimensional image processing, and remote sensing.
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research topics. Feel free to reach out via <font color="#0D4884"> szmyc1@163.com </font> or <font color="#0D4884"> miaoyuchun@whu.edu.cn </font>.
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research topics. Feel free to reach out via <font color="#0D4884"> szmyc1@163.com </font> or <font color="#0D4884"> miaoyuchun@whu.edu.cn</font>.
 
 
 # 🔥 News
