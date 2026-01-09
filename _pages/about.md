@@ -121,7 +121,7 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
 
 # 💻 Internships
 - <b>LongCat Team (Agent), Meituan</b>, January 2026 -- Present <br>
-  Research Intern on Agentic RL (<b><font color="red">Beidou Program</font></b>), advised by Qi Gu</a>.
+  Research Intern on Agentic RL (<b><font color="red">Beidou Program</font></b>), advised by <a href="" target="_blank">Qi Gu</a>.
 - <b>A Generative AI Research Startup</b>, April 2023 -- October 2025 <br>
   Research Intern on LLM Alignment, advised by <a href="http://liamding.cc/" target="_blank">Liang Ding</a>.
   
