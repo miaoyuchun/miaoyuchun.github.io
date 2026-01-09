@@ -120,12 +120,14 @@ Jianli Wang, Tingzhu Huang, Xile Zhao, <b>Yuchun Miao</b>  <br>
     Supervised by <a href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=zh-CN" target="_blank">Xile Zhao</a>.
 
 # 💻 Internships
+- <b>LongCat Team (Agent), Meituan</b>, January 2026 -- Present <br>
+  Research Intern on Agentic RL (<b><font color="red">Beidou Program</font></b>), advised by Qi Gu</a>.
 - <b>A Generative AI Research Startup</b>, April 2023 -- October 2025 <br>
-  Research Intern on Alignment of Large Language Models, advised by <a href="http://liamding.cc/" target="_blank">Liang Ding</a>.
+  Research Intern on LLM Alignment, advised by <a href="http://liamding.cc/" target="_blank">Liang Ding</a>.
   
 <hr style="margin-top: 3em;">
 
 <div id="footer" style="text-align: center; font-size: 0.9em; color: #666;">
   <div id="footer-text"></div>
 
-  &copy; 2025 Yuchun Miao<br><br>
+  &copy; 2026 Yuchun Miao<br><br>
