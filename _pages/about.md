@@ -73,7 +73,7 @@ My research focuses on understanding and improving the **stability of reinforcem
 &emsp;&emsp;**Second author** · Under review
 
 [10] <span style="color: #0D4884;">AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders</span><br>
-&emsp;&emsp;**Second author** · Findings of EMNLP 2025 · [Paper](https://aclanthology.org/2025.findings-emnlp.651/)
+&emsp;&emsp;**Second author** · EMNLP 2025 · [Paper](https://aclanthology.org/2025.findings-emnlp.651/)
 
 [11] <span style="color: #0D4884;">DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration</span><br>
 &emsp;&emsp;**First author** · ICCV 2023 · **110+ citations** · [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Miao_DDS2M_Self-Supervised_Denoising_Diffusion_Spatio-Spectral_Model_for_Hyperspectral_Image_Restoration_ICCV_2023_paper.html) · [Code](https://github.com/miaoyuchun/DDS2M)
