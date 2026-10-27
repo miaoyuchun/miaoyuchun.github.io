@@ -58,7 +58,7 @@ My research focuses on understanding and improving the **stability of reinforcem
 &emsp;&emsp;**First author** · NeurIPS 2024 · **130+ citations** · [Paper](https://nips.cc/virtual/2024/poster/96739) · [Code](https://github.com/miaoyuchun/InfoRM)
 
 [5] <span style="color: #0D4884;">Information-Theoretic Latent Space Modeling for Robust RLHF under Imperfect Human Feedback</span><br>
-&emsp;&emsp;**First author** · Under review at IEEE TPAMI · [Paper](https://arxiv.org/abs/2510.13694) · [Code](https://github.com/miaoyuchun/InfoRM)
+&emsp;&emsp;**First author** · Under review · [Paper](https://arxiv.org/abs/2510.13694) · [Code](https://github.com/miaoyuchun/InfoRM)
 
 [6] <span style="color: #0D4884;">HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model</span><br>
 &emsp;&emsp;**Co-first author** · IEEE TPAMI 2025 · **ESI Hot Paper (Top 0.1%)** · **350+ citations** · [Paper](https://ieeexplore.ieee.org/document/10949864) · [Code](https://github.com/WHU-Sigma/HyperSIGMA)
