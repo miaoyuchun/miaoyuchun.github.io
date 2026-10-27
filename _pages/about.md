@@ -43,7 +43,7 @@ My research focuses on understanding and improving the **stability of reinforcem
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2023.
 - *2021.08*: &nbsp;🎉🎉 One paper has been accepted by IEEE TGRS. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 [1] <span style="color: #0D4884;">When to Stop Reusing: Dynamic Gradient Gating for Sample-Efficient RLVR</span><br>
 &emsp;&emsp;**First author** · Under review · [Paper](https://arxiv.org/abs/2605.19425)
